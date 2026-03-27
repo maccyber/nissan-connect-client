@@ -27,7 +27,7 @@
     "blowfish-node": "1.1.4"
   },
   "devDependencies": {
-    "@types/jest": "29.5.12",
+    "@types/jest": "29.5.14",
     "@typescript-eslint/eslint-plugin": "6.21.0",
     "axios-mock-adapter": "1.22.0",
     "eslint": "8.57.0",
